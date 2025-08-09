@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bruno Moraes  
 
-[🇧🇷 Leia em português] *(README-pt.md)*
+[🇧🇷 Leia em português] (README-pt.md)
 
 
 ## 💡 About Me
