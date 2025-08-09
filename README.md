@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bruno Moraes  
 
-[🇧🇷 Leia em português](/.README-pt.md)
+[🇧🇷 Leia em português] *(README-pt.md)*
+
 
 ## 💡 About Me
 I am a **QA Engineer in transition** with 14 years of professional experience in administrative processes, documentation, and remote collaboration. Currently focusing on **manual and automated software testing**, aiming to ensure quality and usability with a continuous improvement mindset.
